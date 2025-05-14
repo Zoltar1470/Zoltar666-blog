@@ -67,7 +67,7 @@
 
     <div class="twitch-player">
         <iframe
-            src="https://player.twitch.tv/?channel=zoltar666&parent=example.com"
+            src="https://player.twitch.tv/?channel=zoltar666&parent="zoltar666.github.io"
             height="480"
             width="854"
             allowfullscreen>
